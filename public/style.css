@@ -41,7 +41,7 @@ hr {
   /* 14. Override default hr style with a 30-pixel bottom margin */
   margin-bottom: 30px;
   /* 15. Add a 2-pixel solid azure border (look up the hex code). */
-  border-style: solid;
+  border-style: solid; /* Must be defined, from what I can tell */
   border-width: 2px;
   border-color: #0080FF
 }
